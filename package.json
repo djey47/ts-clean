@@ -1,7 +1,7 @@
 {
-  "name": "ts-clean",
-  "version": "1.0.2",
-  "description": "A Tool For Cleaning Up JavaScript File Built By TypeScript",
+  "name": "ts-clean-prime",
+  "version": "1.0.0",
+  "description": "A Tool For Cleaning Up JavaScript File Built By TypeScript. Forked from ts-clean, originally coded by koa-next: https://github.com/koa-next/ts-clean.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
@@ -27,19 +27,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PLDaily/ts-clean.git"
+    "url": "git+https://github.com/djey47/ts-clean.git"
   },
   "keywords": [
     "typescript",
     "javascript",
     "node"
   ],
-  "author": "PLDaily <pcd12321@gmail.com>",
+  "author": "djey47 <j.canler@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PLDaily/ts-clean/issues"
+    "url": "https://github.com/djey47/ts-clean/issues"
   },
-  "homepage": "https://github.com/PLDaily/ts-clean#readme",
+  "homepage": "https://github.com/djey47/ts-clean#readme",
   "husky": {
     "hooks": {
       "pre-commit": "npm run tslint && git add ."
