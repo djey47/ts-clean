@@ -1,4 +1,5 @@
 src/
 .editorconfig
+jest.config.js
 ts*.json
 yarn.lock
