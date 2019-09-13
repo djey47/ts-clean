@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/ts-clean-prime.svg)](https://www.npmjs.com/package/ts-clean-prime)
 [![npm](https://img.shields.io/npm/l/ts-clean-prime.svg)](https://www.npmjs.com/package/ts-clean-prime)
+[![Codeship Status for djey47/ts-clean](https://app.codeship.com/projects/0f418d60-b845-0137-07f3-029fbc5fec2e/status?branch=master)](https://app.codeship.com/projects/364535)
 
 ## Overview
 
