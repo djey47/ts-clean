@@ -42,7 +42,8 @@
   "homepage": "https://github.com/djey47/ts-clean#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "npm run tslint && git add ."
+      "pre-commit": "npm run tslint && git add .",
+      "pre-push": "npm test"
     }
   },
   "engines": {
